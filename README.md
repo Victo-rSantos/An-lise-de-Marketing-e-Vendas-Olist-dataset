@@ -1,15 +1,17 @@
-# Análise-de-Marketing-e-Vendas-Olist-dataset
-**(OBS: Isso é só uma ideia geral de como vai ser a README page do projetos que esta ainda em andamento!!!)** \
-# Histórico e Visão Geral <br>
-O Olist foi fundado em 2015,é uma startup brasileira que atua no segmento de tecnologia para varejo. A empresa possui soluções que facilitam a gestão de lojas off-line e online (e-commerce) e também uma solução de aceleração de vendas dentro de marketplaces. \
-(Falar um pouco sobre os dados, métricas do negócio,um resumo sobre o decorrer dessa análise)\
-Informações e recomendações são fornecidas nas seguintes áreas principais:
-- 1
-- 2
-- 3
-- 4
-- 5...\
-(Links para serem futuramente adicionados)\
+# Markerting & Sales Analysis Olist Dataset
+
+# Overview and Contextualization <br>
+Olist was founded in 2015 and is a Brazilian startup that operates in the retail technology segment. The company has solutions that facilitate the management of offline and online stores (e-commerce) and also a sales acceleration solution within marketplaces.
+
+The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
+
+Information and recommendations are provided in the following main areas:
+- **Sales Trends Analysis**: Understand patterns in revenue, customer behavior, and order activity over time.
+- **Product and Seller Performance**: Evaluate which products and sellers are contributing the most to business success.
+- **Impact on Satisfaction**: Measure and improve customer satisfaction by analyzing feedback and operational efficiency.
+- **Marketing Funnel Analysis**: Optimize the customer journey from acquisition to conversion.
+
+Link of both used Kaggle datasets: [E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and [Marketing Funnel Dataset](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)\
 Link para o download do dashboard interativo \
 Sql queries utilizadas para checkar a qualidade e perfomance dos dados \
 Sql queries utilizadas para limpar organiza e preparar os dados para contrução do dashboard \
